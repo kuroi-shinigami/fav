@@ -150,3 +150,9 @@ ENV/
 pyvenv.cfg
 pip-selfcheck.json
 /.scannerwork/
+/.sonar-runner.bat
+/_.py
+/config.py
+
+# Project-specific paths
+/data.db
