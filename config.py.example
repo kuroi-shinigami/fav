@@ -1,0 +1,2 @@
+config = {'dbfile': 'data.db'}
+
